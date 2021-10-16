@@ -13,6 +13,8 @@
 		43FFBD722719DFE000D2D059 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FFBD702719DFE000D2D059 /* Main.storyboard */; };
 		43FFBD742719DFE200D2D059 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43FFBD732719DFE200D2D059 /* Assets.xcassets */; };
 		43FFBD772719DFE200D2D059 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FFBD752719DFE200D2D059 /* LaunchScreen.storyboard */; };
+		43FFBD7F271A01B400D2D059 /* Sayac.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43FFBD7E271A01B400D2D059 /* Sayac.swift */; };
+		43FFBD81271A0B8F00D2D059 /* GirisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43FFBD80271A0B8F00D2D059 /* GirisViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		43FFBD732719DFE200D2D059 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43FFBD762719DFE200D2D059 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43FFBD782719DFE200D2D059 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43FFBD7E271A01B400D2D059 /* Sayac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sayac.swift; sourceTree = "<group>"; };
+		43FFBD80271A0B8F00D2D059 /* GirisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirisViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				43FFBD6A2719DFE000D2D059 /* AppDelegate.swift */,
 				43FFBD6C2719DFE000D2D059 /* SceneDelegate.swift */,
 				43FFBD6E2719DFE000D2D059 /* ViewController.swift */,
+				43FFBD7E271A01B400D2D059 /* Sayac.swift */,
 				43FFBD702719DFE000D2D059 /* Main.storyboard */,
+				43FFBD80271A0B8F00D2D059 /* GirisViewController.swift */,
 				43FFBD732719DFE200D2D059 /* Assets.xcassets */,
 				43FFBD752719DFE200D2D059 /* LaunchScreen.storyboard */,
 				43FFBD782719DFE200D2D059 /* Info.plist */,
@@ -141,6 +147,8 @@
 				43FFBD6F2719DFE000D2D059 /* ViewController.swift in Sources */,
 				43FFBD6B2719DFE000D2D059 /* AppDelegate.swift in Sources */,
 				43FFBD6D2719DFE000D2D059 /* SceneDelegate.swift in Sources */,
+				43FFBD7F271A01B400D2D059 /* Sayac.swift in Sources */,
+				43FFBD81271A0B8F00D2D059 /* GirisViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
